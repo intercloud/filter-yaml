@@ -1,7 +1,7 @@
 {
   "name": "filter-yaml",
   "version": "1.0.1",
-  "description": "filter array in swagger file",
+  "description": "Filter array in swagger file to display only wanted features during swagger presentation with a public/private tag system ",
   "main": "swagger-filter.js",
   "dependencies": {
     "js-yaml": "^3.11.0"
