@@ -1,0 +1,6 @@
+.DS_Store
+.git
+node_modules
+model.yml
+swagger-filter-private.json
+swagger-filter-public.json

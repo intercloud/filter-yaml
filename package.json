@@ -1,0 +1,20 @@
+{
+  "name": "filter-yaml",
+  "version": "1.0.1",
+  "description": "filter array in swagger file",
+  "main": "swagger-filter.js",
+  "dependencies": {
+    "js-yaml": "^3.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node swagger-filter.js model.yml"
+  },
+  "keywords": [
+    "YAML",
+    "filter",
+    "JSON"
+  ],
+  "author": "guilaume beaumont",
+  "license": "ISC"
+}
