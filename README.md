@@ -4,9 +4,13 @@ Simple lib to filtrate private/public array in our swagger file. The goal of thi
 
 # Installation
 
-You just need to install as a regular npm module
+You just need to install as a regular npm module :
 
 `$ npm install filter-yaml`
+
+Or you can take it directly from github :
+
+`$ git clone git@github.com:intercloud/filter-yaml.git`
 
 
 # How to use it
